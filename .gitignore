@@ -1,0 +1,19 @@
+# Python environments and generated files
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+
+# Jupyter-generated files
+.ipynb_checkpoints/
+
+# Local credentials and environment configuration
+.env
+.env.*
+.kaggle/
+
+# Generated model output and operating-system files
+submission.csv
+.DS_Store
+Thumbs.db
